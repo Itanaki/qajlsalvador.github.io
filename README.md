@@ -31,13 +31,13 @@
 | [Hands-on Activity 3](https://github.com/qajlsalvador/Hands-on-Activity-3-.git)   | Install SSH Server on CentOS and RHEL 8    |
 | [Hands-on Activity 4](https://github.com/qajlsalvador/Hands-on-Activity-4-.git)   | Running Elevated Ad hoc Commands    |
 | [Hands-on Activity 5](https://github.com/qajlsalvador/Hands-on-Activity-5-.git)   | Consolidating Playbook plays    |
-| [Major Examination]()   | Prelim Examination    |
+| [Major Examination](https://github.com/qajlsalvador/Salvador_PrelimExam.git)   | Prelim Examination    |
 | [Hands-on Activity 6](https://github.com/qajlsalvador/Hands-on-Activity-6-.git)   | Targeting Specific Nodes    |
 | [Hands-on Activity 7](https://github.com/qajlsalvador/Hands-on-Activity-7-.git)   | Managing Files and Creating Roles in Ansible    |
 | [Hands-on Activity 8](https://github.com/qajlsalvador/Hands-on-Activity-8-.git)   | Install, Configure, and Manage Availability Monitoring tools   |
 | [Hands-on Activity 9](https://github.com/qajlsalvador/Hands-on-Activity-9-.git)   | Install, Configure, and Manage Performance Monitoring tools    |
 | [Hands-on Activity 10](https://github.com/qajlsalvador/Hands-on-Activity-10-.git)   | Install, Configure, and Manage Log Monitoring tools    |
-| [Major Examination]()  | Midterm Examination    |
+| [Major Examination](https://github.com/qajlsalvador/CPE_MIDEXAM_Salvador.git)  | Midterm Examination    |
 | [Hands-on Activity 11](https://github.com/qajlsalvador/Hands-on-Activity-11-.git)   | Containerization    |
 | [Hands-on Activity 12](https://github.com/qajlsalvador/Hands-on-Activity-12-.git)  | Build a Sample Web App in a Docker Container    |
 | [Hands-on Activity 13](https://github.com/qajlsalvador/Hands-on-Activity-13-.git)   | OpenStack Prerequisite Installation    |
