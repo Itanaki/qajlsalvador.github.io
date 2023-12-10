@@ -40,4 +40,4 @@
 | [Hands-on Activity 12](https://github.com/qajlsalvador/Hands-on-Activity-12-.git)  | Build a Sample Web App in a Docker Container    |
 | [Hands-on Activity 13](https://github.com/qajlsalvador/Hands-on-Activity-13-.git)   | OpenStack Prerequisite Installation    |
 | [Hands-on Activity 14](https://github.com/qajlsalvador/Hands-on-Activity-14-.git)   | OpenStack Installation (Keystone, Glance, Nova)    |
-| [Hands-on Activity 15]()   | OpenStack Installation (Neutron, Horizon, Cinder)    |
+| [Hands-on Activity 15](https://github.com/qajlsalvador/Hands-on-Activity-15-.git)   | OpenStack Installation (Neutron, Horizon, Cinder)    |
