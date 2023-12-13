@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, My name is Andreu John L. Salvador</h1>
 <h3 align="center">A CpE Student from TIP</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<body style="background-color:powderblue;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qajlsalvador&label=Profile%20views&color=0e75b6&style=flat" alt="qajlsalvador" /> </p>
 <h2 align="left">👨🏻‍🔧About me:</h2>
@@ -41,3 +42,4 @@
 | [Hands-on Activity 13](https://github.com/qajlsalvador/Hands-on-Activity-13-.git)   | OpenStack Prerequisite Installation    |
 | [Hands-on Activity 14](https://github.com/qajlsalvador/Hands-on-Activity-14-.git)   | OpenStack Installation (Keystone, Glance, Nova)    |
 | [Hands-on Activity 15](https://github.com/qajlsalvador/Hands-on-Activity-15-.git)   | OpenStack Installation (Neutron, Horizon, Cinder)    |
+</body>
